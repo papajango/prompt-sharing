@@ -22,7 +22,7 @@
       "@components/*": ["components/*"],
       "@styles/*": ["styles/*"],
       "@models/*": ["models/*"],
-      "@utils/*": ["utils/*"],
+      "@utils/*": ["utils/*"]
     },
     "types": ["@testing-library/jest-dom"]
   },
