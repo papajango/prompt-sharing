@@ -22,7 +22,8 @@
       "@components/*": ["components/*"],
       "@styles/*": ["styles/*"],
       "@models/*": ["models/*"],
-      "@utils/*": ["utils/*"]
+      "@utils/*": ["utils/*"],
+      "@testing-library/jest-dom": ["node_modules/@testing-library/jest-dom"]
     },
     "types": ["@testing-library/jest-dom"]
   },
